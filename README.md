@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Bhaskar Kamble, data scientist with expertise in data analysis, machine learning, and programming using R and python.
+
+
+
 <!--
 **bhaskar-kamble/bhaskar-kamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
