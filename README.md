@@ -2,6 +2,7 @@
 
 I'm Bhaskar Kamble, data scientist with expertise in data visualization and machine learning.
 
+$x=0$
 
 
 <!--
