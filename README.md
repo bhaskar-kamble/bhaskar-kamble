@@ -1,4 +1,4 @@
-<img width="900" alt="xyz" src="https://github.com/user-attachments/assets/1dd09fd2-90d7-4f78-b417-7f043dc96af2">
+<img width="600" alt="xyz" src="https://github.com/user-attachments/assets/1dd09fd2-90d7-4f78-b417-7f043dc96af2">
 
 
 ## Hi there 👋
