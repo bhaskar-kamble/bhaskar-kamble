@@ -5,7 +5,7 @@
 
 Hello, I'm Bhaskar, former theoretical physicist and data scientist from Berlin, Germany. My areas of expertise are in machine learning - outlier and fraud detection, changepoint detection, and actuarial data science.
 
-#### Tools
+#### 🛠️ Tools
 
 * machine learning: scikit-learn
 * deep learning: tensorflow
