@@ -5,6 +5,13 @@ I'm Bhaskar Kamble, data scientist with expertise in data visualization and mach
 
 
 <!--
+
+Resources on creating a portfolio:
+https://github.com/katiehuangx
+https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md
+https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md
+https://www.dataquest.io/blog/building-and-presenting-your-data-portfolio/
+
 **bhaskar-kamble/bhaskar-kamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
