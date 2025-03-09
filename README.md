@@ -3,7 +3,9 @@
 
 ## Hi there 👋
 
-I'm Bhaskar Kamble, former theoretical physicist and data scientist based in Berlin, Germany. I hold a Ph.D. in Theoretical Physics from the Indian Institute of Technology Kanpur, India and a Masters in Data Science from the Berliner Hochschule für Technik, Berlin, Germany. My expertise lies in machine learning - outlier and fraud detection, changepoint detection, and actuarial data science.
+Hello, I'm Bhaskar, former theoretical physicist and data scientist from Berlin, Germany. My areas of expertise are in machine learning - outlier and fraud detection, changepoint detection, and actuarial data science.
+
+#### Tools
 
 * machine learning: scikit-learn
 * deep learning: tensorflow
