@@ -1,3 +1,6 @@
+![temperatures_VL_RL](https://github.com/user-attachments/assets/1dd09fd2-90d7-4f78-b417-7f043dc96af2)
+
+
 ## Hi there 👋
 
 I'm Bhaskar Kamble, data scientist with expertise in data visualization and machine learning.
