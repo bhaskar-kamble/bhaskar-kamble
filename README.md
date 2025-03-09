@@ -1,31 +1,37 @@
 <img width="600" alt="xyz" src="https://github.com/user-attachments/assets/1dd09fd2-90d7-4f78-b417-7f043dc96af2">
 
 
-## Hi there 👋
-
 Hello, I'm Bhaskar, former theoretical physicist and data scientist from Berlin, Germany. My areas of expertise are in machine learning - outlier and fraud detection, changepoint detection, and actuarial data science.
 
-#### 🛠️ Tools
+## 📚 Projects
 
-* machine learning: scikit-learn
-* deep learning: tensorflow
+Welcome to my portfolio, where I showcase my projects.
 
-Data visualization:
+## 🛠️ Tools
 
-* matplotlib
-* tableau
-* dash, plotly
+#### Languages:
 
-Data analysis:
+* Python, R, MySQL
 
-* numpy
-* pandas
+#### Machine Learning
 
-APIs, deployment:
+* scikit-learn, tensorflow, PyOD, ruptures (python), strucchange (R), segmented (R),
 
-* flask, fast-api
-* AWS
-* docker
+#### MLops
+
+* pycaret, DataBricks, Mlxtend
+
+#### Data visualization:
+
+* matplotlib, tableau, dash, plotly
+
+#### Data analysis:
+
+* numpy, pandas
+
+#### APIs, deployment:
+
+* flask, fast-api, AWS, docker
 
 
 
