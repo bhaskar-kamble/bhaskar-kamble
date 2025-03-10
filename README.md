@@ -15,7 +15,8 @@ Welcome to my portfolio, where I showcase my projects.
 
 #### Machine Learning
 
-* scikit-learn, tensorflow, PyOD, ruptures (python), strucchange (R), segmented (R),
+* Python: scikit-learn, tensorflow, PyOD, ruptures
+* R: strucchange, segmented
 
 #### MLops
 
@@ -23,7 +24,8 @@ Welcome to my portfolio, where I showcase my projects.
 
 #### Data visualization:
 
-* matplotlib, tableau, dash, plotly
+* Python: matplotlib, tableau, dash, plotly
+* R: ggplot2
 
 #### Data analysis:
 
