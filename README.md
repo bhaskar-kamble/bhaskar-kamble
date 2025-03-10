@@ -1,4 +1,4 @@
-<img width="600" alt="xyz" src="https://github.com/user-attachments/assets/918a8f26-bba4-4bbd-9d95-af5a87f1e758">
+<img width="800" alt="xyz" src="https://github.com/user-attachments/assets/918a8f26-bba4-4bbd-9d95-af5a87f1e758">
 
 
 Hello, I'm Bhaskar, former theoretical physicist and data scientist from Berlin, Germany. My areas of expertise are in machine learning - outlier and fraud detection, changepoint detection, and actuarial data science.
