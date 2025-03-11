@@ -11,7 +11,7 @@ Hello, I'm Bhaskar, former theoretical physicist and data scientist from Berlin,
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my [portfolio](https://github.com/bhaskar-kamble/Portfolio-Guide), where I showcase my projects.
 
 ## 🛠️ Tools
 
